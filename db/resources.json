@@ -5798,6 +5798,15 @@
         "Category": "Games & Comics"
     },
     {
+        "API": "Trackmania",
+        "Description": "Ubisoft Nadeo API for Trackmania",
+        "Auth": "apiKey",
+        "HTTPS": true,
+        "Cors": "unknown",
+        "Link": "https://webservices.openplanet.dev/",
+        "Category": "Games & Comics"
+    },
+    {
         "API": "Tronald Dump",
         "Description": "The dumbest things Donald Trump has ever said",
         "Auth": "",
